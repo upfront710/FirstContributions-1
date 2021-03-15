@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Rajdeep-G",
+      "name": "Rajdeep Ghosh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58541505?v=4",
+      "profile": "https://www.linkedin.com/in/rajdeep-ghosh-b518bb1b1/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "FirstContributions",
+  "projectOwner": "codeiiest-dev",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
