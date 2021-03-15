@@ -1,6 +1,6 @@
 # First Contributions
 
-Welcome, let's take the baby steps towards your Open Source Journey together. Might be intimidating in the begining, but don't worry you will learn and enjoy a lot throughout the process. **May the source be with you**
+Welcome, let's take the baby steps towards your Open Source Journey together. Might be intimidating in the begining, but don't worry you will learn and enjoy a lot throughout the process. **May the source be with you.**
 
 Let's take a step wise look into how you can make your first Pull Request.
 
@@ -40,6 +40,6 @@ git push origin <add-your-branch-name>
 
 ## 6. Make your PR
 
+<hr>
 
-
-<h2> Congratulations 🎉. You successfully made your first PR </h2>
+<h2> Congratulations 🎉. You successfully made your contribution </h2>
