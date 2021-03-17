@@ -8,7 +8,7 @@ I am a person, whose name doesn't matter, his life is full of disappointment, na
 
 My English is shit, but somehow this person managed to get a good...
 
-`who said it's good, you just fucking got placed in CST due to your CGPA, you asshole`
+`who said it's good, you just f**king got placed in CST due to your CGPA, you a**hole`
 
 so anyways, that other person is my past, and I would like you to forget him....
 
@@ -20,6 +20,6 @@ you can consider him as my past self, he just got enrolled to our college, with 
 
 To put it simply, he was a perfect contrast of myself. He was on his right track to change his department, but he forgot to think about one thing. _What would he do after department change?_
 
-His department changed, but a lack of plan destroyed him. and that forged him into me. A depressed asshole, who just wants to die.
+His department changed, but a lack of plan destroyed him. and that forged him into me. A depressed a**hole, who just wants to die.
 
-`Fuck him, I am here and will destroy you and your mindset. I have a lot of things to show to this world. AND I WILL DO IT sooner or later`
+`F**k him, I am here and will destroy you and your mindset. I have a lot of things to show to this world. AND I WILL DO IT sooner or later`
