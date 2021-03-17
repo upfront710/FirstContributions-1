@@ -61,6 +61,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Pranab1109"><img src="https://avatars.githubusercontent.com/u/70249715?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pranab1109</b></sub></a><br /><a href="https://github.com/codeiiest-dev/FirstContributions/commits?author=Pranab1109" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/01-DC"><img src="https://avatars.githubusercontent.com/u/78012571?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Devanshu Chatterjee</b></sub></a><br /><a href="https://github.com/codeiiest-dev/FirstContributions/commits?author=01-DC" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/simeetnayan81"><img src="https://avatars.githubusercontent.com/u/78461155?v=4?s=100" width="100px;" alt=""/><br /><sub><b>simeetnayan81</b></sub></a><br /><a href="https://github.com/codeiiest-dev/FirstContributions/commits?author=simeetnayan81" title="Code">💻</a></td>
+    <td align="center"><a href="https://hrahul2605.netlify.app"><img src="https://avatars.githubusercontent.com/u/48245702?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rahul Halder</b></sub></a><br /><a href="https://github.com/codeiiest-dev/FirstContributions/commits?author=hrahul2605" title="Code">💻</a></td>
   </tr>
 </table>
 
