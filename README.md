@@ -1,6 +1,6 @@
 # First Contributions
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome, let's take the baby steps towards your Open Source Journey together. Might be intimidating in the begining, but don't worry you will learn and enjoy a lot throughout the process. **May the source be with you.**
@@ -63,6 +63,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/simeetnayan81"><img src="https://avatars.githubusercontent.com/u/78461155?v=4?s=100" width="100px;" alt=""/><br /><sub><b>simeetnayan81</b></sub></a><br /><a href="https://github.com/codeiiest-dev/FirstContributions/commits?author=simeetnayan81" title="Code">💻</a></td>
     <td align="center"><a href="https://hrahul2605.netlify.app"><img src="https://avatars.githubusercontent.com/u/48245702?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rahul Halder</b></sub></a><br /><a href="https://github.com/codeiiest-dev/FirstContributions/commits?author=hrahul2605" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/RaunakGN2001"><img src="https://avatars.githubusercontent.com/u/74176824?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Raunak Gayen</b></sub></a><br /><a href="https://github.com/codeiiest-dev/FirstContributions/commits?author=RaunakGN2001" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Abhiroop25902"><img src="https://avatars.githubusercontent.com/u/69428539?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhiroop25902</b></sub></a><br /><a href="https://github.com/codeiiest-dev/FirstContributions/commits?author=Abhiroop25902" title="Code">💻</a></td>
   </tr>
 </table>
 
