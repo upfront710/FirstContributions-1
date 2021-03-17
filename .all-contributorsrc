@@ -31,6 +31,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "01-DC",
+      "name": "Devanshu Chatterjee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78012571?v=4",
+      "profile": "https://github.com/01-DC",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
