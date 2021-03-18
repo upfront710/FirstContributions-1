@@ -1,6 +1,6 @@
 # First Contributions
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome, let's take the baby steps towards your Open Source Journey together. Might be intimidating in the begining, but don't worry you will learn and enjoy a lot throughout the process. **May the source be with you.**
@@ -67,6 +67,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/Abhiroop25902"><img src="https://avatars.githubusercontent.com/u/69428539?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhiroop25902</b></sub></a><br /><a href="https://github.com/codeiiest-dev/FirstContributions/commits?author=Abhiroop25902" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/TMahato"><img src="https://avatars.githubusercontent.com/u/80240317?v=4?s=100" width="100px;" alt=""/><br /><sub><b>TMahato</b></sub></a><br /><a href="https://github.com/codeiiest-dev/FirstContributions/commits?author=TMahato" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/subhadeep01"><img src="https://avatars.githubusercontent.com/u/76871085?v=4?s=100" width="100px;" alt=""/><br /><sub><b>subhadeep01</b></sub></a><br /><a href="https://github.com/codeiiest-dev/FirstContributions/commits?author=subhadeep01" title="Code">💻</a></td>
   </tr>
 </table>
 
