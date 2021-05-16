@@ -103,6 +103,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "iftiquar",
+      "name": "iftiquar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84250004?v=4",
+      "profile": "https://github.com/iftiquar",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
